@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I'm a huge fan of the game Counter Strike and the sport of Boxing.  
 
   
-- 🌐 Recent Projects: 🛒<a href="https://voren-ecommerce-app.vercel.app/">Ecommerce</a> | 📚<a href="https://codelab-react.vercel.app/">Course Booking</a> | 📖<a href="https://fxdotnotes.vercel.app/">Forex Trading Guide</a>
+- 🌐 Recent Projects: 🛒<a href="https://voren-ecommerce-app.vercel.app/">Ecommerce</a> | 🏫<a href="https://codelab-react.vercel.app/">Course Booking</a> | 📖<a href="https://fxdotnotes.vercel.app/">Forex Trading Guide</a>
 
 <br/>   <br/>
 
