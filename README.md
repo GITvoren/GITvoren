@@ -1,7 +1,7 @@
 # <div align="center"><Hello, Kamusta👋 /&gt;</div>  <br/>
   
 
-### <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻</div>  <br/>
+### <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻 <br/> I specialize in MERN stack and I also love designing with CSS. </div>  
   
 
 - 🔭 I’m currently working on my Ecommerce APP -- adding new features.  
