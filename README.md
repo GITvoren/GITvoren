@@ -39,25 +39,28 @@
 
 ## Connect with me  
 <div align="center">
+  
+<a href="mailto:tejuco.voren@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-DC143C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+  
 <a href="https://linkedin.com/in/tejucovoren" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://m.me/v0e2i2t1" target="_blank">
+<img src=https://img.shields.io/badge/messenger-87CEEB.svg?&style=for-the-badge&logo=messenger&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://gitlab.com/voren_git" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 
-<a href="mailto:tejuco.voren@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-DC143C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://t.me/v_dev_mobius" target="_blank">
 <img src=https://img.shields.io/badge/telegram-ADD8E6.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
   
-<a href="https://m.me/v0e2i2t1" target="_blank">
-<img src=https://img.shields.io/badge/messenger-87CEEB.svg?&style=for-the-badge&logo=messenger&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
+
   
 </div>  
   
