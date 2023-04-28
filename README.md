@@ -1,16 +1,13 @@
 # <div align="center"><Hello, Kamusta👋 /&gt;</div>  <br/>
   
 
-### <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻 <br/> I specialize in MERN stack and I also love designing with CSS. </div>  <br/> <br/>
+### <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer. <br/> I specialize in MERN stack and I also love designing with CSS. </div>  <br/> <br/>
   
 
-- 🔭 I’m currently working on my Ecommerce Web App -- adding new features.  
-  
+-  I’m currently working on my Ecommerce Web App -- adding new features.  
+    
 
-- ❓ Ask me about anything related to React JS, CSS, and Forex Trading.  
-  
-
-- ⚡ Fun fact: I'm a huge fan of the game Counter Strike and the sport of Boxing.  
+- Fun fact: I'm a huge fan of the game Counter Strike and the sport of Boxing.  
 
   
 - 🌐 Recent Projects: 🛒<a href="https://voren-ecommerce-app.vercel.app/">Ecommerce</a> | 🏫<a href="https://codelab-react.vercel.app/">Course Booking</a> | 📖<a href="https://fxdotnotes.vercel.app/">Forex Trading Guide</a>
@@ -18,7 +15,7 @@
 <br/>   <br/>
 
 
-## ⚡ My Skill Set  
+## My Skill Set  
 
 
 ### &nbsp;  
