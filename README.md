@@ -70,6 +70,6 @@
 <br/>  
 
 
-## Spotify Listening  
+## 🎧 Spotify Listening  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7bgvvq6gfhgpwg8kwmvtuoo4z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" /></div>
 <br />
