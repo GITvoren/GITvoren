@@ -48,7 +48,7 @@
 </a>  
 
 <a href="https://mailto:tejuco.voren@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
   
 </div>  
