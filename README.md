@@ -1,7 +1,7 @@
-# <div align="center"><Hello, Kamusta👋 /&gt;</div>  
+# <div align="center"><Hello, Kamusta👋 /&gt;</div>  <br/>
   
 
-### <div align="center">I'm Voren, a full-stack web developer 👨‍💻</div>  
+### <div align="center">I'm Voren, a full-stack web developer 👨‍💻</div>  <br/>
   
 
 - 🔭 I’m currently working on my Ecommerce APP -- adding new features.  
