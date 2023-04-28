@@ -4,7 +4,7 @@
 #### <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻 <br/> I specialize in MERN stack and I also love designing with CSS. </div>  <br/> <br/>
   
 
-- 🔭 I’m currently working on my Ecommerce APP -- adding new features.  
+- 🔭 I’m currently working on my Ecommerce Web App -- adding new features.  
   
 
 - ❓ Ask me about anything related to React JS, CSS, and Forex Trading.  
