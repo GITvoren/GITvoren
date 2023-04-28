@@ -15,7 +15,7 @@
   
 - 🌐 Recent Projects: <a href="https://voren-ecommerce-app.vercel.app/">🛒Ecommerce</a> | <a href="https://codelab-react.vercel.app/">🏫Course Booking</a> | <a href="https://fxdotnotes.vercel.app/">📖Forex Trading Guide</a>
 
-<br/>  
+<br/>   <br/>
 
 
 ## ⚡ My Skill Set  
@@ -36,7 +36,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>  
 
-<br/>  
+<br/>  <br/> 
 
 
 ## 📱 Connect with me  
@@ -67,7 +67,7 @@
 </div>  
   
 
-<br/>  
+<br/>  <br/>
 
 
 ## 🎧 Spotify Listening  
