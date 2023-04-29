@@ -1,4 +1,4 @@
-# <div align="center"><👋Kamusta /&gt;</div>  <br/>
+# <div align="center"><Kamusta👋/&gt;</div>  <br/>
   
 
 ### <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻  <br/> I specialize in MERN stack and I also love designing with CSS. </div>  <br/> <br/>
