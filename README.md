@@ -13,13 +13,13 @@
   
 - Recent Projects: 🛒<a href="https://voren-ecommerce-app.vercel.app/">Ecommerce</a> | 🏫<a href="https://codelab-react.vercel.app/">Course Booking</a> | 📖<a href="https://fxdotnotes.vercel.app/">Forex Trading Guide</a>
 
-<br/>   <br/>
+<br/>
   
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h3 style="display: inline-block;">I love to explore and is very excited to learn new things! 🚀</h3></summary>
+    <summary><h4 style="display: inline-block;">I love to explore and is very excited to learn new things! 🚀</h4></summary>
   </ul>
-</div> <br/> <br/> 
+</div> <br/>
 
 
 ## 🛠️ Technology & Tools
