@@ -15,7 +15,7 @@
 
 <br/>   <br/>
   
-### <div align="center"> I love to explore and learn new things! </div>  <br/> <br/>
+## <div align="center"> I love to explore and is very excited to learn more things in Web Development! </div>  <br/> <br/>
 
 
 ## 🛠️ Technology & Tools
