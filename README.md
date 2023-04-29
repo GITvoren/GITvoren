@@ -1,14 +1,14 @@
 # <div align="center"><Kamusta👋/&gt;</div>  <br/>
   
 
-## <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻<br/>I specialize in MERN stack and I also like designing with CSS.  <br/> <div id="user-content-toc" align="center">
+## <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻<br/>I specialize in MERN stack and I also like designing with CSS.  <br/><br/></div>
+
+  
+<div id="user-content-toc" align="center">
   <ul>
     <summary><h3 style="display: inline-block;">I love to explore and learn new things! 🚀</h3></summary>
   </ul>
-</div> <br/><br/><br/></div>
-
-  
-
+</div>
   
 
 - I’m currently working on my Ecommerce Web App -- adding new features.  
