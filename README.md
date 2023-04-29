@@ -16,7 +16,7 @@
 <br/>   <br/>
   
   
-<h2 align="center"> I love to explore and is very excited to learn new things! </h2>  <br/> <br/>  
+<h2 align="center"> I love to explore and is very excited to learn new things! </h2>
 
 
 ## 🛠️ Technology & Tools
