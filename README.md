@@ -15,9 +15,9 @@
 
 <br/>   <br/>
   
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul>
-    <summary><h2 style="display: inline-block;">I love to explore and is very excited to learn new things! 🚀</h2></summary>
+    <summary><h3 style="display: inline-block;">I love to explore and is very excited to learn new things! 🚀</h3></summary>
   </ul>
 </div> <br/> <br/> 
 
