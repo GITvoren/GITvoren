@@ -1,7 +1,13 @@
 # <div align="center"><Kamusta👋/&gt;</div>  <br/>
   
 
-## <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻<br/>I specialize in MERN stack and I also like designing with CSS.  <br/><br/></div> 
+## <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻<br/>I specialize in MERN stack and I also like designing with CSS.  <br/><br/></div>
+
+  <div id="user-content-toc" align="center">
+  <ul>
+    <summary><h3 style="display: inline-block;">I love to explore and learn new things! 🚀</h3></summary>
+  </ul>
+</div> <br/>
 
   
 
@@ -14,13 +20,6 @@
 - Recent Projects: 🛒<a href="https://voren-ecommerce-app.vercel.app/">Ecommerce</a> | 🏫<a href="https://codelab-react.vercel.app/">Course Booking</a> | 📖<a href="https://fxdotnotes.vercel.app/">Forex Trading Guide</a>
 
 <br/>
-  
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h3 style="display: inline-block;">I love to explore and learn new things! 🚀</h3></summary>
-  </ul>
-</div> <br/>
-
 
 ## 🛠️ Technology & Tools
 
