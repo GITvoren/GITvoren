@@ -15,7 +15,7 @@
 <br/>   <br/>
 
 
-## 🛠️ Technology and Tools I use
+## 🛠️ Technology & Tools
 
 
 ### &nbsp;  
