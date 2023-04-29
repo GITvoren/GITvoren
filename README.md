@@ -1,9 +1,9 @@
 # <div align="center"><Kamusta👋/&gt;</div>  <br/>
   
 
-### <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻  <br/><br/></div> 
+## <div align="center">I'm Voren, a Filipino 🇵🇭 full-stack web developer 👨‍💻  <br/><br/></div> 
   
-#### <div align="center"> I specialize in MERN stack and I also like designing with CSS. <br/> I love to explore and learn new things! </div>  <br/> <br/>
+### <div align="center"> I specialize in MERN stack and I also like designing with CSS. <br/> I love to explore and learn new things! </div>  <br/> <br/>
   
 
 - I’m currently working on my Ecommerce Web App -- adding new features.  
