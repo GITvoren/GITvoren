@@ -8,7 +8,7 @@
   <ul>
     <summary><h3 style="display: inline-block;"> I specialize in MERN stack and I also like designing with CSS.<br/>I love to explore and learn new things! 🚀</h3></summary>
   </ul>
-</div> <br/>
+</div>
   
 
 - I’m currently working on my Ecommerce Web App -- adding new features.  
