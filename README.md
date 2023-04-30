@@ -1,7 +1,7 @@
 # <div align="center">𝙷𝚎𝚕𝚕𝚘, 𝚏𝚘𝚕𝚔𝚜!👋</div>  <br/>
   
 
-## <div align="center">𝙸'𝚖 𝚅𝚘𝚛𝚎𝚗, 𝚊 𝙵𝚒𝚕𝚒𝚙𝚒𝚗𝚘 🇵🇭 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛👨‍💻<br/><br/></div>
+## <div align="center">I'ᴍ Vᴏʀᴇɴ, ᴀ Fɪʟɪᴘɪɴᴏ 🇵🇭 Fᴜʟʟ-sᴛᴀᴄᴋ Wᴇʙ Dᴇᴠᴇʟᴏᴘᴇʀ👨‍💻<br/><br/></div>
 
   
 <div id="user-content-toc" align="center">
