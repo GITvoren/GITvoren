@@ -11,17 +11,17 @@
 </div> <br/>
   
 
-- 𝙸&#8202;’&#8202;𝚖 &#8202;𝚌&#8202;𝚞&#8202;𝚛&#8202;𝚛&#8202;𝚎&#8202;𝚗&#8202;𝚝&#8202;𝚕&#8202;𝚢&#8202; 𝚠&#8202;𝚘&#8202;𝚛&#8202;𝚔&#8202;𝚒&#8202;𝚗&#8202;𝚐&#8202;  𝚘&#8202;𝚗 &#8202;𝚖&#8202;𝚢&#8202; 𝙴&#8202;𝚌&#8202;𝚘&#8202;𝚖&#8202;𝚖&#8202;𝚎&#8202;𝚛&#8202;𝚌&#8202;𝚎&#8202; 𝚆&#8202;𝚎&#8202;𝚋 &#8202;𝙰&#8202;𝚙&#8202;𝚙&#8202; -- 𝚊&#8202;𝚍&#8202;𝚍&#8202;𝚒&#8202;𝚗&#8202;𝚐&#8202; 𝚗&#8202;𝚎&#8202;𝚠&#8202; 𝚏&#8202;𝚎&#8202;𝚊&#8202;𝚝&#8202;𝚞&#8202;𝚛&#8202;𝚎&#8202;𝚜&#8202;.  
+- 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚖𝚢 𝙴𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎 𝚆𝚎𝚋 𝙰𝚙𝚙 -- 𝚊𝚍𝚍𝚒𝚗𝚐 𝚗𝚎𝚠 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜 
     
 
-- <strong>𝙵𝚞𝚗 𝚏𝚊𝚌𝚝:</strong> 𝙸'𝚖 𝚊 𝚑𝚞𝚐𝚎 𝚏𝚊𝚗 𝚘𝚏 𝚝𝚑𝚎 𝚐𝚊𝚖𝚎 𝙲𝚘𝚞𝚗𝚝𝚎𝚛 𝚂𝚝𝚛𝚒𝚔𝚎 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚜𝚙𝚘𝚛𝚝 𝚘𝚏 𝙱𝚘𝚡𝚒𝚗𝚐.  
+- <strong>𝙵&#8202;𝚞&#8202;𝚗&#8202; 𝚏&#8202;𝚊&#8202;𝚌&#8202;𝚝&#8202;:</strong> 𝙸'𝚖 𝚊 𝚑𝚞𝚐𝚎 𝚏𝚊𝚗 𝚘𝚏 𝚝𝚑𝚎 𝚐𝚊𝚖𝚎 𝙲𝚘𝚞𝚗𝚝𝚎𝚛 𝚂𝚝𝚛𝚒𝚔𝚎 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚜𝚙𝚘𝚛𝚝 𝚘𝚏 𝙱𝚘𝚡𝚒𝚗𝚐.  
 
   
-- <strong>𝚁𝚎𝚌𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜:</strong> 🛒<a href="https://voren-ecommerce-app.vercel.app/">𝙴𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎</a> | 🏫<a href="https://codelab-react.vercel.app/">𝙲𝚘𝚞𝚛𝚜𝚎 𝙱𝚘𝚘𝚔𝚒𝚗𝚐</a> | 📖<a href="https://fxdotnotes.vercel.app/">𝙵𝚘𝚛𝚎𝚡 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎</a>
+- <strong>𝚁&#8202;𝚎&#8202;𝚌&#8202;𝚎&#8202;𝚗&#8202;𝚝&#8202; 𝙿&#8202;𝚛&#8202;𝚘&#8202;𝚓&#8202;𝚎&#8202;𝚌&#8202;𝚝&#8202;𝚜&#8202;:</strong> 🛒<a href="https://voren-ecommerce-app.vercel.app/">𝙴𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎</a> | 🏫<a href="https://codelab-react.vercel.app/">𝙲𝚘𝚞𝚛𝚜𝚎 𝙱𝚘𝚘𝚔𝚒𝚗𝚐</a> | 📖<a href="https://fxdotnotes.vercel.app/">𝙵𝚘𝚛𝚎𝚡 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎</a>
 
 <br/>
 
-## 🛠️ 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 & 𝚃𝚘𝚘𝚕𝚜
+## 🛠️ Technology & Tools
 
 
 ### &nbsp;  
@@ -42,7 +42,7 @@
 <br/>  <br/> 
 
 
-## 📱 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎  
+## 📱 Connect with me 
 <div align="center">
   
 <a href="mailto:tejuco.voren@gmail.com" target="_blank">
@@ -73,6 +73,6 @@
 <br/>  <br/>
 
 
-## 🎧 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝙻𝚒𝚜𝚝𝚎𝚗𝚒𝚗𝚐  
+## 🎧 Spotify Listening
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7bgvvq6gfhgpwg8kwmvtuoo4z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 <br />
