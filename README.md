@@ -14,7 +14,7 @@
 - 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚖𝚢 <a href="https://voren-ecommerce-app.vercel.app/">𝙴𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎 𝚆𝚎𝚋 𝙰𝚙𝚙</a> -- 𝚊𝚍𝚍𝚒𝚗𝚐 𝚗𝚎𝚠 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜 
     
 
-- <strong>F&#8202;ᴜ&#8202;ɴ&#8202;&#8202; ꜰ&#8202;ᴀ&#8202;ᴄ&#8202;ᴛ&#8202;:&nbsp;</strong> 𝙸'𝚖 𝚊 𝚑𝚞𝚐𝚎 𝚏𝚊𝚗 𝚘𝚏 𝚝𝚑𝚎 𝚐𝚊𝚖𝚎 𝙲𝚘𝚞𝚗𝚝𝚎𝚛 𝚂𝚝𝚛𝚒𝚔𝚎 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚜𝚙𝚘𝚛𝚝 𝚘𝚏 𝙱𝚘𝚡𝚒𝚗𝚐.  
+- <strong>F&#8202;ᴜ&#8202;ɴ&#8202;&#8202; ꜰ&#8202;ᴀ&#8202;ᴄ&#8202;ᴛ&#8202;:&nbsp;</strong> I'm a huge fan of the game Counter strike and the sport of Boxing.  
 
   
 - <strong>R&#8202;ᴇ&#8202;ᴄ&#8202;ᴇ&#8202;ɴ&#8202;ᴛ&#8202;&#8202; P&#8202;ʀ&#8202;ᴏ&#8202;ᴊ&#8202;ᴇ&#8202;ᴄ&#8202;ᴛ&#8202;s&#8202;:&nbsp;</strong> 🛒<a href="https://voren-ecommerce-app.vercel.app/">𝙴𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎</a> | 🏫<a href="https://codelab-react.vercel.app/">𝙲𝚘𝚞𝚛𝚜𝚎 𝙱𝚘𝚘𝚔𝚒𝚗𝚐</a> | 📖<a href="https://fxdotnotes.vercel.app/">𝙵𝚘𝚛𝚎𝚡 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎</a>
