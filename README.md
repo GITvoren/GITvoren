@@ -1,4 +1,4 @@
-# <div align="center">Ｈｅｌｌｏ！<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" style="height: 20px; width: 20px;" alt="👋"/> </div>  <br/>
+# <div align="center">Ｈｅｌｌｏ！<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" style="height: 30px; width: 30px;" alt="👋"/> </div>  <br/>
   
 
 ## <div align="center">I'm Voren, a Filipino 🇵🇭 Full-stack Web Developer👨‍💻<br/><br/></div>
