@@ -1,27 +1,27 @@
 # <div align="center">𝙷𝚎𝚕𝚕𝚘, 𝚏𝚘𝚕𝚔𝚜!👋</div>  <br/>
   
 
-## <div align="center">I'm Voren, a Filipino 🇵🇭 Full-stack Web Developer 👨‍💻<br/><br/></div>
+## <div align="center">𝙸'𝚖 𝚅𝚘𝚛𝚎𝚗, 𝚊 𝙵𝚒𝚕𝚒𝚙𝚒𝚗𝚘 🇵🇭 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👨‍💻<br/><br/></div>
 
   
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h3 style="display: inline-block;"> I specialize in MERN stack and I also enjoy designing with CSS.<br/>I love to explore and learn new things! 🚀</h3></summary>
+    <summary><h3 style="display: inline-block;"> 𝙸 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎 𝚒𝚗 𝙼𝙴𝚁𝙽 𝚜𝚝𝚊𝚌𝚔 𝚊𝚗𝚍 𝙸 𝚊𝚕𝚜𝚘 𝚎𝚗𝚓𝚘𝚢 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂.<br/>𝙸 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗 𝚗𝚎𝚠 𝚝𝚑𝚒𝚗𝚐𝚜! 🚀</h3></summary>
   </ul>
 </div> <br/>
   
 
-- I’m currently working on my Ecommerce Web App -- adding new features.  
+- 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚖𝚢 𝙴𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎 𝚆𝚎𝚋 𝙰𝚙𝚙 -- 𝚊𝚍𝚍𝚒𝚗𝚐 𝚗𝚎𝚠 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜.  
     
 
-- <strong>Fun fact:</strong> I'm a huge fan of the game Counter Strike and the sport of Boxing.  
+- <strong>𝙵𝚞𝚗 𝚏𝚊𝚌𝚝:</strong> 𝙸'𝚖 𝚊 𝚑𝚞𝚐𝚎 𝚏𝚊𝚗 𝚘𝚏 𝚝𝚑𝚎 𝚐𝚊𝚖𝚎 𝙲𝚘𝚞𝚗𝚝𝚎𝚛 𝚂𝚝𝚛𝚒𝚔𝚎 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚜𝚙𝚘𝚛𝚝 𝚘𝚏 𝙱𝚘𝚡𝚒𝚗𝚐.  
 
   
-- <strong>Recent Projects:</strong> 🛒<a href="https://voren-ecommerce-app.vercel.app/">Ecommerce</a> | 🏫<a href="https://codelab-react.vercel.app/">Course Booking</a> | 📖<a href="https://fxdotnotes.vercel.app/">Forex Trading Guide</a>
+- <strong>𝚁𝚎𝚌𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜:</strong> 🛒<a href="https://voren-ecommerce-app.vercel.app/">𝙴𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎</a> | 🏫<a href="https://codelab-react.vercel.app/">𝙲𝚘𝚞𝚛𝚜𝚎 𝙱𝚘𝚘𝚔𝚒𝚗𝚐</a> | 📖<a href="https://fxdotnotes.vercel.app/">𝙵𝚘𝚛𝚎𝚡 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎</a>
 
 <br/>
 
-## 🛠️ Technology & Tools
+## 🛠️ 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 & 𝚃𝚘𝚘𝚕𝚜
 
 
 ### &nbsp;  
@@ -42,7 +42,7 @@
 <br/>  <br/> 
 
 
-## 📱 Connect with me  
+## 📱 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎  
 <div align="center">
   
 <a href="mailto:tejuco.voren@gmail.com" target="_blank">
@@ -73,6 +73,6 @@
 <br/>  <br/>
 
 
-## 🎧 Spotify Listening  
+## 🎧 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝙻𝚒𝚜𝚝𝚎𝚗𝚒𝚗𝚐  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7bgvvq6gfhgpwg8kwmvtuoo4z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 <br />
