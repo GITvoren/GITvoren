@@ -17,7 +17,7 @@
 - <strong>𝙵&#8202;𝚞&#8202;𝚗&#8202;&#8202; 𝚏&#8202;𝚊&#8202;𝚌&#8202;𝚝&#8202;:&nbsp;</strong> 𝙸'𝚖 𝚊 𝚑𝚞𝚐𝚎 𝚏𝚊𝚗 𝚘𝚏 𝚝𝚑𝚎 𝚐𝚊𝚖𝚎 𝙲𝚘𝚞𝚗𝚝𝚎𝚛 𝚂𝚝𝚛𝚒𝚔𝚎 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚜𝚙𝚘𝚛𝚝 𝚘𝚏 𝙱𝚘𝚡𝚒𝚗𝚐.  
 
   
-- <strong>𝚁&#8202;𝚎&#8202;𝚌&#8202;𝚎&#8202;𝚗&#8202;𝚝&#8202;&#8202; 𝙿&#8202;𝚛&#8202;𝚘&#8202;𝚓&#8202;𝚎&#8202;𝚌&#8202;𝚝&#8202;𝚜&#8202;:&nbsp;</strong> 🛒<a href="https://voren-ecommerce-app.vercel.app/">𝙴𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎</a> | 🏫<a href="https://codelab-react.vercel.app/">𝙲𝚘𝚞𝚛𝚜𝚎 𝙱𝚘𝚘𝚔𝚒𝚗𝚐</a> | 📖<a href="https://fxdotnotes.vercel.app/">𝙵𝚘𝚛𝚎𝚡 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎</a>
+- <strong>Rᴇᴄᴇɴᴛ Pʀᴏᴊᴇᴄᴛs:</strong> 🛒<a href="https://voren-ecommerce-app.vercel.app/">𝙴𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎</a> | 🏫<a href="https://codelab-react.vercel.app/">𝙲𝚘𝚞𝚛𝚜𝚎 𝙱𝚘𝚘𝚔𝚒𝚗𝚐</a> | 📖<a href="https://fxdotnotes.vercel.app/">𝙵𝚘𝚛𝚎𝚡 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎</a>
 
 <br/>
 
