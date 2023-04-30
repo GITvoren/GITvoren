@@ -1,4 +1,4 @@
-# <div align="center">Ｈｅｌｌｏ！👋 <img src="https://media.tenor.com/4BkYeeOwEUgAAAAC/waving-wave.gif" alt="👋"/> </div>  <br/>
+# <div align="center">Ｈｅｌｌｏ！👋 <img src="[https://media.tenor.com/4BkYeeOwEUgAAAAC/waving-wave.gif](https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif)" alt="👋"/> </div>  <br/>
   
 
 ## <div align="center">I'm Voren, a Filipino 🇵🇭 Full-stack Web Developer👨‍💻<br/><br/></div>
