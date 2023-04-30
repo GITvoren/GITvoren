@@ -1,4 +1,4 @@
-# <div align="center">Greetings!👋</div>  <br/>
+# <div align="center">👋Hello!</div>  <br/>
   
 
 ## <div align="center">I'm Voren, a Filipino 🇵🇭 Full-stack Web Developer 👨‍💻<br/><br/></div>
