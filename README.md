@@ -1,4 +1,4 @@
-# <div align="center">Ｈｅｌｌｏ！👋</div>  <br/>
+# <div align="center">Ｈｅｌｌｏ！👋 <img src="https://media.tenor.com/4BkYeeOwEUgAAAAC/waving-wave.gif" alt="👋"/> </div>  <br/>
   
 
 ## <div align="center">I'm Voren, a Filipino 🇵🇭 Full-stack Web Developer👨‍💻<br/><br/></div>
