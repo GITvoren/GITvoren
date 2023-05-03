@@ -11,7 +11,7 @@
 </div> <br/>
   
 
-- I'm currently.. 
+- I'm currently ... 
     - learning about [framer-motion](https://www.npmjs.com/package/framer-motion)
     - working on my <a href="https://github.com/GITvoren/ecommerce-react">Ecommerce Web App</a> -- adding new features.
     
