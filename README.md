@@ -14,7 +14,7 @@
 - I'm currently ... 
     - learning about [framer-motion](https://www.npmjs.com/package/framer-motion) and [Python](https://www.python.org/)
     - working on my <a href="https://github.com/GITvoren/ecommerce-react">Ecommerce Web App</a> -- adding new features.
-    - building mini projects in [The Odin Project](https://www.theodinproject.com/)
+    - building JavaScript projects in [The Odin Project](https://www.theodinproject.com/) program
     
 - <strong>F&#8202;ᴜ&#8202;ɴ&#8202;&#8202; ꜰ&#8202;ᴀ&#8202;ᴄ&#8202;ᴛ&#8202;:&nbsp;</strong> I'm a huge fan of the game Counter strike and the sport of Boxing.  
 
