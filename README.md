@@ -6,7 +6,7 @@
   
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h3 style="display: inline-block;"> I specialize in MERN stack and I also enjoy designing with CSS. <br/>I love to explore and learn new things!🚀</h3></summary>
+    <summary><h3 style="display: inline-block;"> I specialize in MERN stack and responsive design. <br/>I love to explore and learn new things!🚀</h3></summary>
   </ul>
 </div> <br/>
   
