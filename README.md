@@ -12,7 +12,7 @@
   
 
 - I'm currently ... 
-    - learning about [framer-motion](https://www.npmjs.com/package/framer-motion) and [Python](https://www.python.org/)
+    - learning about [Python](https://www.python.org/)
     - working on my <a href="https://github.com/GITvoren/ecommerce-react">Ecommerce Web App</a> — adding new features.
     - building JavaScript projects in [The Odin Project](https://www.theodinproject.com/) program
     
