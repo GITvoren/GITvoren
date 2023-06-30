@@ -13,7 +13,7 @@
 
 - I'm currently ... 
     - learning about [Python](https://www.python.org/) at [CS50P](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
-    - working on my <a href="https://github.com/GITvoren/movieDb-mern">Movies Database Web App</a>.
+    - working on my <a href="https://github.com/GITvoren/movieDb-mern">Movie Database Web App</a>.
     - building JavaScript projects in [The Odin Project](https://www.theodinproject.com/) program
     - honing my JavaScript skills in [Codewars](https://www.codewars.com/) 😅
     
