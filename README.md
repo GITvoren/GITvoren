@@ -14,7 +14,6 @@
 - I'm currently ... 
     - learning [Python](https://www.python.org/) on [CS50P](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
     - working on my new project → <a href="https://github.com/GITvoren/movieDb-mern">Movie Database Web App</a>
-    - honing my JavaScript skills in [Codewars](https://www.codewars.com/)
     
 - <strong>F&#8202;ᴜ&#8202;ɴ&#8202;&#8202; ꜰ&#8202;ᴀ&#8202;ᴄ&#8202;ᴛ&#8202;:&nbsp;</strong> I'm a huge fan of the game Counter strike and the sport of Boxing
 
