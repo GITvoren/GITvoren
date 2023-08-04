@@ -12,7 +12,7 @@
   
 
 - I'm currently ... 
-    - learning [Python](https://www.python.org/) through [CS50P](https://www.edx.org/course/cs50s-introduction-to-programming-with-python), [Corey Schafer's](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU), and this [book](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702).
+    - learning [Python](https://www.python.org/) through [CS50P](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) and [Corey Schafer's](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
     - working on my new project → <a href="https://github.com/GITvoren/movieDb-mern">Movie Database Web App</a>
     - honing my JavaScript skills in [Codewars](https://www.codewars.com/) 😅
     
