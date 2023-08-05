@@ -12,7 +12,7 @@
   
 
 - I'm currently ... 
-    - learning [Python](https://www.python.org/) through [CS50P](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) and [Corey Schafer's](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU). [CS50AI](https://www.edx.org/learn/computer-programming/harvard-university-cs50s-introduction-to-artificial-intelligence-with-python) next 🤖🧠
+    - learning [Python](https://www.python.org/) through [CS50P](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) and [Corey Schafer's](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU). Next [CS50AI](https://www.edx.org/learn/computer-programming/harvard-university-cs50s-introduction-to-artificial-intelligence-with-python) 🤖🧠
     - working on my new project → <a href="https://github.com/GITvoren/movieDb-mern">Movie Database Web App</a>
     - honing my JavaScript skills in [Codewars](https://www.codewars.com/) 😅
     
