@@ -18,7 +18,7 @@
 - <strong>F&#8202;ᴜ&#8202;ɴ&#8202;&#8202; ꜰ&#8202;ᴀ&#8202;ᴄ&#8202;ᴛ&#8202;:&nbsp;</strong> I'm a huge fan of the game Counter strike and the sport of Boxing
 
   
-- <strong>R&#8202;ᴇ&#8202;ᴄ&#8202;ᴇ&#8202;ɴ&#8202;ᴛ&#8202;&#8202; P&#8202;ʀ&#8202;ᴏ&#8202;ᴊ&#8202;ᴇ&#8202;ᴄ&#8202;ᴛ&#8202;s&#8202;:&nbsp;</strong> 🛒<a href="https://github.com/GITvoren/ecommerce-react">Ecommerce</a> | 🏫<a href="https://github.com/GITvoren/course-booking-react">Course Booking</a> |📈 <a href="https://github.com/GITvoren/static-forexcourse-bootstrap">Forex Trading Guide</a> |  📝<a href="https://github.com/GITvoren/todos-react">Todo's
+- <strong>R&#8202;ᴇ&#8202;ᴄ&#8202;ᴇ&#8202;ɴ&#8202;ᴛ&#8202;&#8202; P&#8202;ʀ&#8202;ᴏ&#8202;ᴊ&#8202;ᴇ&#8202;ᴄ&#8202;ᴛ&#8202;s&#8202;:&nbsp;</strong> 🛒<a href="https://github.com/GITvoren/ecommerce-react">Ecommerce</a> | 🔍 <a href="https://github.com/GITvoren/aitools_flask_api">AI Tools Curator</a> | 🏫<a href="https://github.com/GITvoren/course-booking-react">Course Booking</a> |📈 <a href="https://github.com/GITvoren/static-forexcourse-bootstrap">Forex Trading Guide</a> |  📝<a href="https://github.com/GITvoren/todos-react">Todo's
 
 <br/>
 
