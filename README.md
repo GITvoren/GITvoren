@@ -12,7 +12,7 @@
   
 
 - I'm currently ... 
-    - dedicated to Python. Next [CS50AI](https://www.edx.org/learn/computer-programming/harvard-university-cs50s-introduction-to-artificial-intelligence-with-python) 🤖🧠
+    - dedicated to Python, AI, ML 🤖🧠
     - honing my JavaScript skills in [Codewars](https://www.codewars.com/) 😅
     
 - <strong>F&#8202;ᴜ&#8202;ɴ&#8202;&#8202; ꜰ&#8202;ᴀ&#8202;ᴄ&#8202;ᴛ&#8202;:&nbsp;</strong> I'm a huge fan of the game Counter strike and the sport of Boxing
