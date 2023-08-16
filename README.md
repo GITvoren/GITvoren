@@ -12,8 +12,9 @@
   
 
 - I'm currently ... 
-    - dedicated to Python, AI/ML 🤖🧠
-    - honing my JavaScript skills in [Codewars](https://www.codewars.com/) 😅
+    -  learning Mobile App Development using [React Native](https://reactnative.dev/)
+    -  interested in Artificial Intelligence and Machine Learning
+    -  working on a new personal project [Movie Database Web Application](https://github.com/GITvoren/movieDb-mern)
     
 - <strong>F&#8202;ᴜ&#8202;ɴ&#8202;&#8202; ꜰ&#8202;ᴀ&#8202;ᴄ&#8202;ᴛ&#8202;:&nbsp;</strong> I'm a huge fan of the game Counter strike and the sport of Boxing
 
