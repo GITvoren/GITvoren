@@ -12,7 +12,7 @@
   
 
 - I'm currently ... 
-    -  ???
+    -  working as a Web Developer
     
 - <strong>F&#8202;ᴜ&#8202;ɴ&#8202;&#8202; ꜰ&#8202;ᴀ&#8202;ᴄ&#8202;ᴛ&#8202;:&nbsp;</strong> I'm a huge fan of the game Counter strike and the sport of Boxing
 
