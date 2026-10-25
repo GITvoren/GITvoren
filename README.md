@@ -1,3 +1,7 @@
+### Focused on web development, APIs, databases, and AI integration.
+
+---
+
 **frontend**
 
 <p>
