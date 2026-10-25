@@ -28,9 +28,7 @@
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Realtime Database" />
 </p>
 
----
-
-### I'm currently learning...
+**Learning ...**
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
